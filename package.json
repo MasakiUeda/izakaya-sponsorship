@@ -1,7 +1,7 @@
 {
   "name": "izakaya-sponsor-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "居酒屋スポンサーシップアプリケーション",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
