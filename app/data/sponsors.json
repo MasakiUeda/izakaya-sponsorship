@@ -1,0 +1,203 @@
+[
+  {
+    "id": "1",
+    "name": "山田太郎",
+    "email": "yamada@example.com",
+    "message": "新店舗の成功を心よりお祈りしております。美味しい料理を楽しみにしています。",
+    "lineRegistration": true,
+    "createdAt": "2024-01-15T09:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "佐藤花子",
+    "email": "sato@example.com",
+    "message": "地域の新しい憩いの場ができることを嬉しく思います。頑張ってください！",
+    "lineRegistration": false,
+    "createdAt": "2024-01-15T14:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "鈴木一郎",
+    "email": "suzuki@example.com",
+    "message": "和食が大好きです。オープンを楽しみにしています。",
+    "lineRegistration": true,
+    "createdAt": "2024-01-15T18:45:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "田中美咲",
+    "email": "tanaka@example.com",
+    "message": "家族で訪れるのを楽しみにしています。子供向けのメニューもあると嬉しいです。",
+    "lineRegistration": false,
+    "createdAt": "2024-01-15T11:15:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "高橋健太",
+    "email": "takahashi@example.com",
+    "message": "地元の食材を使った料理を期待しています。応援しています！",
+    "lineRegistration": true,
+    "createdAt": "2024-01-15T20:00:00.000Z"
+  },
+  {
+    "id": "1736930963734",
+    "name": "植田昌基",
+    "email": "makube6@gmail.com",
+    "message": "これらの変更を適用することで、ファイル名の不一致による問題が解決されるはずです。変更後、プロジェクトを再ビルドしてエラーが解消されたことを確認してください。\r\n\r\nもし他に問題がある場合や、さらに assistance が必要な場合は、お知らせください。",
+    "lineRegistration": false,
+    "createdAt": "2025-01-15T08:49:23.734Z"
+  },
+  {
+    "id": "1737015943089",
+    "name": "植田",
+    "email": "makube6@gmail.com",
+    "message": "おめでとおおおおおおおおおおおおお！",
+    "lineRegistration": false,
+    "createdAt": "2025-01-16T08:25:43.089Z",
+    "amount": 30000
+  },
+  {
+    "id": "1737016746790",
+    "name": "高橋雄一",
+    "email": "takahashi@yu.com",
+    "message": "おめでとうございます。",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:39:06.790Z",
+    "amount": 5000
+  },
+  {
+    "id": "1737016917013",
+    "name": "長谷川泰大",
+    "email": "fullbocki1kaku@dokomo.kp",
+    "message": "PCでLINEを登録を選択した場合は友だち登録URLに遷移してほしいです\r\n\r\n",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:41:57.013Z",
+    "amount": 25000
+  },
+  {
+    "id": "1737017097335",
+    "name": "河村",
+    "email": "runrun@run.run",
+    "message": "え～～～～～～～～～～～",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:44:57.335Z",
+    "amount": 99999
+  },
+  {
+    "id": "1737017227108",
+    "name": "藤崎",
+    "email": "makube6@gmail.com",
+    "message": "モーダルの最大幅が広がり、より大きな表示領域が確保されました。\r\nQRコードの画像サイズが300x300ピクセルに拡大され、より見やすくなりました。\r\nモーダル内のコンテンツに余白が追加され、テキストサイズも大きくなり、全体的に読みやすくなりました。\r\n「LINE友だち追加ページへ」ボタンのサイズも大きくなり、クリックしやすくなりました。",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:47:07.108Z",
+    "amount": 10000
+  },
+  {
+    "id": "1737017346205",
+    "name": "藤崎",
+    "email": "makube6@gmail.com",
+    "message": "モーダルの最大幅が広がり、より大きな表示領域が確保されました。\r\nQRコードの画像サイズが300x300ピクセルに拡大され、より見やすくなりました。\r\nモーダル内のコンテンツに余白が追加され、テキストサイズも大きくなり、全体的に読みやすくなりました。\r\n「LINE友だち追加ページへ」ボタンのサイズも大きくなり、クリックしやすくなりました。",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:49:06.205Z",
+    "amount": 10000
+  },
+  {
+    "id": "1737017353286",
+    "name": "藤崎",
+    "email": "makube6@gmail.com",
+    "message": "モーダルの最大幅が広がり、より大きな表示領域が確保されました。\r\nQRコードの画像サイズが300x300ピクセルに拡大され、より見やすくなりました。\r\nモーダル内のコンテンツに余白が追加され、テキストサイズも大きくなり、全体的に読みやすくなりました。\r\n「LINE友だち追加ページへ」ボタンのサイズも大きくなり、クリックしやすくなりました。",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:49:13.286Z",
+    "amount": 10000
+  },
+  {
+    "id": "1737017505549",
+    "name": "AC",
+    "email": "makube6@gmail.com",
+    "message": "QRコードが小さすぎます。 閉じるボタンがわかりにくいです 画面が暗くなってしまいます。 ポップアップを閉じた後に画面が協賛済みの画面になっていません\r\n\r\n",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:51:45.549Z",
+    "amount": 30000
+  },
+  {
+    "id": "1737017526266",
+    "name": "植田",
+    "email": "m_ueda@ti-am.jp",
+    "message": "QRコードが小さすぎます。 閉じるボタンがわかりにくいです 画面が暗くなってしまいます。 ポップアップを閉じた後に画面が協賛済みの画面になっていません\r\n\r\n",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:52:06.266Z",
+    "amount": 15000
+  },
+  {
+    "id": "1737017742936",
+    "name": "デフォルト",
+    "email": "makube6@gmail.com",
+    "message": "はい、ご要望の変更を実装いたします。まず、新しい固定リンクコンポーネントを作成し、その後SponsorshipFormコンポーネントを更新します。",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:55:42.936Z",
+    "amount": 50000
+  },
+  {
+    "id": "1737017914082",
+    "name": "system",
+    "email": "m_ueda@ti-am.jp",
+    "message": "",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T08:58:34.082Z",
+    "amount": 50000
+  },
+  {
+    "id": "1737018087890",
+    "name": "植田",
+    "email": "makube6@gmail.com",
+    "message": "",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T09:01:27.890Z",
+    "amount": 10000
+  },
+  {
+    "id": "1737018440317",
+    "name": "デフォルト",
+    "email": "m_ueda@ti-am.jp",
+    "message": "",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T09:07:20.317Z",
+    "amount": 15000
+  },
+  {
+    "id": "1737020502467",
+    "name": "植田",
+    "email": "makube6@gmail.com",
+    "message": "",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T09:41:42.468Z",
+    "amount": 50000
+  },
+  {
+    "id": "1737020520764",
+    "name": "植田",
+    "email": "makube6@gmail.com",
+    "message": "",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T09:42:00.764Z",
+    "amount": 45000
+  },
+  {
+    "id": "1737022059273",
+    "name": "植田",
+    "email": "makube6@gmail.com",
+    "message": "",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T10:07:39.274Z",
+    "amount": 50000
+  },
+  {
+    "id": "1737024698464",
+    "name": "植田",
+    "email": "makube6@gmail.com",
+    "message": "あああ",
+    "lineRegistration": true,
+    "createdAt": "2025-01-16T10:51:38.464Z",
+    "amount": 40000
+  }
+]
